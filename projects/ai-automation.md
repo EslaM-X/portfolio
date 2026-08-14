@@ -19,6 +19,13 @@ Trigger → Planning → Tool Selection → Execution → Validation
 - Knowledge-base integration for grounded outputs
 - Full audit log and observability
 - Deterministic, testable design with pluggable providers
+- Retry policy with exponential backoff and classified failures (transient vs permanent)
+- Tool permissions via a deny-by-default policy
+- Idempotent runs and checkpoint-based resume
+- Offline rule-based evaluation — the whole suite runs with zero API keys
+
+Current release: [v0.2.0](https://github.com/EslaM-X/ai-agent-automation-platform/releases)
+— 22 offline tests, CI green, 60-second quickstart (`python examples/demo_60s.py`).
 
 ## Experience
 

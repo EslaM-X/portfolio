@@ -45,7 +45,7 @@ request, tests, benchmarks, or a release.
 | Project | Stack | Status |
 | --- | --- | --- |
 | [**robot-sim-policy-lab**](https://github.com/EslaM-X/robot-sim-policy-lab) | Python · MuJoCo · PyBullet | v0.1.0 |
-| [**ai-agent-automation-platform**](https://github.com/EslaM-X/ai-agent-automation-platform) | Python · agents · workflows | v0.1.0 |
+| [**ai-agent-automation-platform**](https://github.com/EslaM-X/ai-agent-automation-platform) | Python · agents · workflows | v0.2.0 |
 | [**production-systems-lab**](https://github.com/EslaM-X/production-systems-lab) | Go · HTTP · reliability | v0.1.0 |
 
 > See [`projects/`](projects/) for per-area summaries.
