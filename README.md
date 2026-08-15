@@ -43,6 +43,26 @@ request, tests, benchmarks, or a release.
 
 ---
 
+## Attribution: External OSS Contributions vs. My Engineering Work
+
+The difference matters, so it is stated explicitly:
+
+| | **External OSS Contributions** | **My Engineering Work** |
+| --- | --- | --- |
+| What | Code I wrote inside someone else's codebase | Repositories I own, designed, and maintain |
+| Examples | [`stellar/stellar-core` PR #5409](https://github.com/stellar/stellar-core/pull/5409) · [`PiNetwork/PiRC` PR #2](https://github.com/PiNetwork/PiRC/pull/2) · [`fabricfoundation/RoboPay` PR #86/#89](https://github.com/fabricfoundation/RoboPay/pull/86) | [`ai-agent-automation-platform`](https://github.com/EslaM-X/ai-agent-automation-platform) · [`production-systems-lab`](https://github.com/EslaM-X/production-systems-lab) · [`robot-sim-policy-lab`](https://github.com/EslaM-X/robot-sim-policy-lab) |
+| Ownership | The upstream project owns the code; I authored specific changes | I own the full design, code, tests, and governance |
+| Proof | A merged (or open) PR inside the upstream repo | My own repositories, CI, releases, benchmarks |
+| Pinned on profile | stellar-core · PiRC (forks of upstream) | ai-agent · portfolio · production-systems · robot-sim |
+
+**Rule of attribution:** anything under `EslaM-X/*` is my original work; anything
+under another owner's name is a contribution to *their* project. A fork on the
+profile means "I contributed to and follow this project" — not "I own it".
+Every row in the [Evidence Matrix](#evidence-matrix) below states which of the
+two it is.
+
+---
+
 ## Featured Case Studies
 
 Three deep dives that show how each system was designed, how it is tested, and
