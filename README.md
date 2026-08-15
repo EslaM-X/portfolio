@@ -16,6 +16,7 @@ and the evidence that backs them. The goal is not to claim — it is to show.
 | Area | Path | What you will find |
 | --- | --- | --- |
 | 📄 CV | [`CV.md`](CV.md) | One-page, evidence-based CV — every claim links to a repository, PR, test, or benchmark |
+| 🔗 LinkedIn Kit | [`linkedin-positioning.md`](linkedin-positioning.md) | Positioning, headline, About, Featured, experience, projects, OSS, skills — same evidence graph, no CV copy |
 | 🏗️ Original Projects | [`projects/`](projects/) | Independent systems I designed and built from zero |
 | 🔬 Case Studies | [`case-studies/`](case-studies/) | Deep dives into real problems I solved — including open-source contributions |
 | 🧭 Engineering | [`engineering/`](engineering/) | Architecture, security, testing and methodology notes |
