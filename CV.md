@@ -1,6 +1,7 @@
 # EslaM HeshAM — Systems & Protocol Engineer
 
-**Lead Technical Architect** · Web3 · Cyber Security · Robotics & AI Agents
+**Technical Architect** — building reliable AI, robotics, distributed systems,
+blockchain, cryptography, cybersecurity, and secure protocols.
 Cairo, Egypt 🇪🇬 · Remote Worldwide
 **Portfolio:** [eslamx.vercel.app](https://eslamx.vercel.app) · **GitHub:** [github.com/EslaM-X](https://github.com/EslaM-X) · **LinkedIn:** [in/eslam-hesham](https://www.linkedin.com/in/eslam-hesham-359964192)
 

@@ -22,16 +22,16 @@ This is the one line every section echoes in different words.
 
 ## 1. Headline
 
-**Recommended (220-char limit — fits):**
+**Recommended — the unified identity line (applies to Bio, CV, and website):**
+
+```
+⚡ Technical Architect building reliable AI, robotics, distributed systems, blockchain, cryptography, cybersecurity, and secure protocols.
+```
+
+**Alternative, more compact:**
 
 ```
 Technical Architect | Reliable AI Agents · Robotics · Distributed Systems · Web3 Protocols · Security
-```
-
-**Alternative, more opportunity-oriented:**
-
-```
-Lead Technical Architect — I build provable AI, robotics & payment-grade systems. Open to Web3 & Security Architect roles
 ```
 
 Search keywords baked in: **Technical Architect · AI Agents · Robotics ·
@@ -51,7 +51,7 @@ technologies in the opening; the proof comes second.
 > That shapes how I work: every claim is backed by a test, a benchmark, or a
 > merged PR. Not "we could do this" — "here is the proof it works."
 >
-> As **Lead Technical Architect**, I've taken enterprise ERP, invoicing, audit,
+> As **Technical Architect**, I've taken enterprise ERP, invoicing, audit,
 > and IPO-workflow systems to production — systems where regulators and boards
 > ask "who changed this?" and the answer must be instant and tamper-proof.
 >
